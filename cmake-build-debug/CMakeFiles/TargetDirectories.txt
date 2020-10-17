@@ -1,0 +1,3 @@
+C:/Users/piotr/Desktop/NInf/cmake-build-debug/CMakeFiles/NInf.dir
+C:/Users/piotr/Desktop/NInf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/piotr/Desktop/NInf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
