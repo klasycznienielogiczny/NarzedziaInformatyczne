@@ -1,0 +1,3 @@
+C:/Users/piotr/Source/Repos/klasycznienielogiczny/NarzedziaInformatyczne/out/build/x64-Debug (default)/CMakeFiles/NInf.dir
+C:/Users/piotr/Source/Repos/klasycznienielogiczny/NarzedziaInformatyczne/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/piotr/Source/Repos/klasycznienielogiczny/NarzedziaInformatyczne/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
