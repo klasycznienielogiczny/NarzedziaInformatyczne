@@ -34,4 +34,4 @@ _**Kilka s³ów od siebie**_
 * ~~~Ani te¿ to~~~
 
 ![Kebsik](https://i.postimg.cc/W4xyq6YM/Daco-5453030.png)
-#  :rainbow_flag:_********_:rainbow_flag:
+# :rainbow_flag:_********_:rainbow_flag:
