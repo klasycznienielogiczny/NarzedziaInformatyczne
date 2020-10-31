@@ -1,6 +1,5 @@
-# Kebattle.PP
-## Testowe repozytorium
-### Repozytorium stworzone na potrzeby zajêæ z przedmiotu Narzêdzia Informatyczne
+# Testowe repozytorium
+## Repozytorium stworzone na potrzeby zajêæ z przedmiotu Narzêdzia Informatyczne
 
 **System ERP dla sieci kebabów**
 
@@ -15,7 +14,7 @@ Nazwa u¿ytkownika | Imiê
 
 **TO DO** list:
 - [x] Wymyœliæ temat projektu
-- [x] Za³o¿yæ konto na github ( [Click here](https://github.com/klasycznienielogiczny))
+- [x] Za³o¿yæ konto na github ([Click here](https://github.com/klasycznienielogiczny))
 - [x] Skonfigurowaæ gita
 - [x] Do³aczyæ do organizacji
 - [x] Za³o¿yæ konto na [Overleaf](https://overleaf.com)
