@@ -27,7 +27,7 @@ Nazwa u¿ytkownika | Imiê
 - [x] Stworzyæ __README__ na swoim profilu
 - [x] Wrzuciæ coœ do swojego repozytorium
 - [ ] Umówiæ siê na spotkanie za pomoc¹ ankiety [Doodle](https://doodle.com/en/)
-- [ ] * Wys³aæ link do prowadz¹cego np. za pomoc¹ [Google Calendar](https://calendar.google.com/)
+	- [ ] Wys³aæ link do prowadz¹cego np. za pomoc¹ [Google Calendar](https://calendar.google.com/)
 - [ ] Dodaæ informacjê o licencji do README
 - [ ] Rozpisaæ i przydzieliæ zadania dla cz³onów
 - [ ] Wykorzystaæ [git flow](https://guides.github.com/introduction/flow/) do pracy nad projektem
