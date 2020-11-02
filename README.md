@@ -23,7 +23,7 @@ Nazwa u¿ytkownika | Imiê
 - [x] Za³o¿yæ konto na [Trello](https://trello.com/)
 - [x] Dodaæ plik _.gitignore_
 - [x] Dodaæ plik __README__
-- [ ] Stworzyæ zespo³owy opis projektu
+- [x] Stworzyæ zespo³owy opis projektu
 - [x] Stworzyæ __README__ na swoim profilu
 - [x] Wrzuciæ coœ do swojego repozytorium
 - [ ] Umówiæ siê na spotkanie za pomoc¹ ankiety [Doodle](https://doodle.com/en/)
@@ -36,13 +36,13 @@ Nazwa u¿ytkownika | Imiê
 Numer zestawu | Czy wykonano wszystko? | Iloœæ punktów do zdobycia | Zdobyte punkty
 --------------|------------------------|---------------------------|---------------
 1 | :white_check_mark: | 5 | :five:/:five:
-2 | :ballot_box_with_check: | 6 | :five:/:six:
+2 | :white_check_mark: | 6 | :six:/:six:
 3 | | :grey_question: |
 4 | | :grey_question: |
 5 | | :grey_question: |
 6 | | :grey_question: |
 7 :checkered_flag: | | :grey_question: |
-**PODSUMOWANIE** | :x: | 11 | :one::zero:/:one::one:
+**PODSUMOWANIE** | :x: | 11 | :one::one:/:one::one:
 
 _**Kilka s³ów od siebie**_
 > "Bardzo mi przykro ¿e nie dzia³aj¹ nastêpuj¹ce opcje:"
@@ -53,6 +53,8 @@ _**Kilka s³ów od siebie**_
 * -= Przyk³adowy tekst =- :broken_heart:
 * ~~~Ani te¿ to~~~
 * ~~Skreœlony tekst~~ Jednak dzia³a :squirrel:
+
+> :ballot_box_with_check:
 
 ![Kebsik](https://i.postimg.cc/W4xyq6YM/Daco-5453030.png)
 #  :rainbow_flag:_********_:rainbow_flag:
