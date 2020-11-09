@@ -26,23 +26,23 @@ Nazwa u¿ytkownika | Imiê
 - [x] Stworzyæ zespo³owy opis projektu
 - [x] Stworzyæ __README__ na swoim profilu
 - [x] Wrzuciæ coœ do swojego repozytorium
-- [ ] Umówiæ siê na spotkanie za pomoc¹ ankiety [Doodle](https://doodle.com/en/)
-	- [ ] Wys³aæ link do prowadz¹cego np. za pomoc¹ [Google Calendar](https://calendar.google.com/)
-- [ ] Dodaæ informacjê o licencji do README
-- [ ] Rozpisaæ i przydzieliæ zadania dla cz³onów
+- [x] Umówiæ siê na spotkanie za pomoc¹ ankiety [Doodle](https://doodle.com/en/)
+	- [x] Wys³aæ link do prowadz¹cego np. za pomoc¹ [Google Calendar](https://calendar.google.com/)
+- [x] Dodaæ informacjê o licencji do README
+- [x] Rozpisaæ i przydzieliæ zadania dla cz³onów
 - [ ] Wykorzystaæ [git flow](https://guides.github.com/introduction/flow/) do pracy nad projektem
-- [ ] Skonfigurowaæ projekt
+- [x] Skonfigurowaæ projekt
 
 Numer zestawu | Czy wykonano wszystko? | Iloœæ punktów do zdobycia | Zdobyte punkty
 --------------|------------------------|---------------------------|---------------
 1 | :white_check_mark: | 5 | :five:/:five:
 2 | :white_check_mark: | 6 | :six:/:six:
-3 | | :grey_question: |
+3 | | 8 | :five:/:eight:
 4 | | :grey_question: |
 5 | | :grey_question: |
 6 | | :grey_question: |
 7 :checkered_flag: | | :grey_question: |
-**PODSUMOWANIE** | :x: | 11 | :one::one:/:one::one:
+**PODSUMOWANIE** | :x: | 19 | :one::six:/:one::nine:
 
 _**Kilka s³ów od siebie**_
 > "Bardzo mi przykro ¿e nie dzia³aj¹ nastêpuj¹ce opcje:"
