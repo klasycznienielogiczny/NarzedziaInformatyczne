@@ -1,6 +1,7 @@
-# Kebattle.PP
-## Testowe repozytorium
+# Testowe repozytorium
 ### Repozytorium stworzone na potrzeby zajęć z przedmiotu Narzędzia Informatyczne
+
+[Link](https://github.com/klasycznienielogiczny/hdr-expandnet) do mojego forka z repozytorium [dmarnerides](https://github.com/dmarnerides/hdr-expandnet). Znalazłem to [w tym artykule.](https://paperswithcode.com/paper/expandnet-a-deep-convolutional-neural-network).
 
 **System ERP dla sieci kebabów**
 
